@@ -43,7 +43,7 @@
 	</div>
   
   <script>
-window.sr = ScrollReveal();
+	window.sr = ScrollReveal();
 	sr.reveal('.jumbotron',{reset:true});
 	sr.reveal('.color-block',{duration : 1500,rotate: {x: 65,y:90} , reset:true});
   
