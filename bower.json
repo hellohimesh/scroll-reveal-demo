@@ -1,0 +1,21 @@
+{
+  "name": "scroll-reveal",
+  "authors": [
+    "himeshsuthar <himesh5983@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "scrollreveal": "^3.3.5",
+    "bootstrap": "^3.3.7"
+  }
+}
